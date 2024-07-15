@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "STUDENTS_DETAILS_DATACONTRACTS/1.0.0": {
+        "dependencies": {
+          "STUDENTS_DETAILS_DATAOBJECTS": "1.0.0"
+        },
+        "runtime": {
+          "STUDENTS_DETAILS_DATACONTRACTS.dll": {}
+        }
+      },
+      "STUDENTS_DETAILS_DATAOBJECTS/1.0.0": {
+        "runtime": {
+          "STUDENTS_DETAILS_DATAOBJECTS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STUDENTS_DETAILS_DATACONTRACTS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "STUDENTS_DETAILS_DATAOBJECTS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
